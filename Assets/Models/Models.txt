@@ -1,0 +1,1 @@
+All the 3d models (créer un nouveau dossier pour chaque modele et rajouter les textures et materials du model dans ce même dossier)
