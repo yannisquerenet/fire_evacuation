@@ -1,4 +1,4 @@
-# Nom du Projet
+# Fire Force
 Création d’un trajet d’évacuation virtuel dans un bâtiment en feu en utilisant la moteur Unity
 
 # Infos Groupes
@@ -15,8 +15,8 @@ L'environnement virtuel sera constitué d'un espace «fermé» formé d'un agenc
 
 # Technologies Utilisés
 - Unity
-- Casque VR (le Nom)
+- Casque VR
 - Eye Tracking
 
 # Lien Utiles
-- [Cahier des charges](https://mail.uca.fr/service/home/~/?auth=co&loc=fr&id=3510&part=2&disp=a)
+- [Cahier des charges](https://drive.google.com/drive/folders/1hKdYjS54JLx_qoszY6wFW2_L_hqI9z0F)
