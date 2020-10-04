@@ -15,7 +15,7 @@ L'environnement virtuel sera constitué d'un espace «fermé» formé d'un agenc
 
 # Technologies Utilisés
 - Unity
-- Casque VR
+- HTC Vice Pro Eye
 - Eye Tracking
 
 # Lien Utiles
